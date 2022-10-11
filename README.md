@@ -1,10 +1,10 @@
 
-## SPARK-AR-AI:
+# SPARK-AR-AI:
 
-## Description:
+# Description:
 This is a Spark AR (AI base instagram filter);
 
-## LIVE DEMO 
+# LIVE DEMO 
 
 RED TREES: https://www.instagram.com/ar/2666655246919343
 
